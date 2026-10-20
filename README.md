@@ -1,16 +1,33 @@
-## Hi there 👋
+# hi, its sandeep
+(go by sunny)
 
-<!--
-**sunnyssah7/sunnyssah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+electrical engineering · uc riverside
 
-Here are some ideas to get you started:
+*between bits and atoms.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+interested in the boundary between computation and the physical world — embedded systems, robotics, control, and intelligent machines.
+
+focused on understanding systems from first principles, building through experimentation, and measuring what happens beyond theory.
+
+### / interests
+
+`embedded systems` · `robotics` · `control theory` · `electronics` · `intelligent systems` · `tech investing`
+
+### / research
+
+technical investigations into how systems behave, interact, and fail.
+
+- feedback control & system identification
+- hardware–software integration
+- sensing, computation & physical systems
+- intelligent systems & data infrastructure
+
+### / lab notes + projects
+
+experiments, simulations, technical notes, and projects in progress.
+
+more soon.
+
+---
+
+*understand the model. build the system. measure reality.*
