@@ -1,5 +1,5 @@
-# hi, its sandeep
-(go by sunny)
+# hi, its sandeep ✌️
+(i also go by sunny)
 
 electrical engineering · uc riverside
 
