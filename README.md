@@ -1,7 +1,9 @@
-<p align="center">
-  <!-- LOCAL HOSTED GOJO BANNER -->
-  <img src="gojo.gif" width="480px" alt="Satoru Gojo">
-</p>
+<div align="center">
+
+  <!-- RESILIENT BANNER FALLBACK -->
+  <img src="gojo.gif" width="480px" alt="Satoru Gojo" onerror="this.src='https://squarespace-cdn.com'">
+
+</div>
 
 # hi, its sandeep ✌️
 (i also go by sunny)
@@ -40,11 +42,12 @@ more soon.
 ---
 
 ### 📊 system telemetry
-<p align="center">
-  <!-- DYNAMIC STATS - POWERED BY PRANESH METRIC API MIRROR -->
+
+<div align="center">
+  <!-- DIRECT API BACKUP PATHS FOR METRICS -->
   <img src="https://vercel.app" width="48%" alt="GitHub Stats">
   <img src="https://vercel.app" width="48%" alt="Top Languages">
-</p>
+</div>
 
 <!-- ANIMATED CONTRIBUTION SNAKE -->
 <p align="center">
