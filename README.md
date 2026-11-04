@@ -1,11 +1,6 @@
 <p align="center">
-  <!-- JUJUTSU KAISEN - SATORU GOJO RAW BANNER -->
-  <img src="https://alphacoders.com" width="480px" alt="Satoru Gojo">
-</p>
-
-<p align="center">
-  <!-- LIVE PROFILE VIEWS COUNTER -->
-  <img src="https://komarev.com" alt="Profile Views">
+  <!-- LOCAL HOSTED GOJO BANNER -->
+  <img src="gojo.gif" width="480px" alt="Satoru Gojo">
 </p>
 
 # hi, its sandeep ✌️
@@ -20,14 +15,8 @@ interested in the boundary between computation and the physical world — embedd
 focused on understanding systems from first principles, building through experimentation, and measuring what happens beyond theory.
 
 ### / tech stack & tools
-<p align="left">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="Embedded C">
-  <img src="https://shields.io" alt="ROS">
-  <img src="https://shields.io" alt="Linux">
-  <img src="https://shields.io" alt="Git">
-</p>
+
+`python` · `c++` · `embedded c` · `ros` · `linux` · `git`
 
 ### / interests
 
