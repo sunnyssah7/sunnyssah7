@@ -1,10 +1,10 @@
 <p align="center">
-  <!-- 3. MONOCHROMATIC ANIME WORKSTATION GIF -->
-  <img src="https://alphacoders.com" width="450px" alt="1-Bit Monochromatic Workstation">
+  <!-- JUJUTSU KAISEN - SATORU GOJO RAW BANNER -->
+  <img src="https://alphacoders.com" width="480px" alt="Satoru Gojo">
 </p>
 
 <p align="center">
-  <!-- 5. LIVE PROFILE VIEWS COUNTER -->
+  <!-- LIVE PROFILE VIEWS COUNTER -->
   <img src="https://komarev.com" alt="Profile Views">
 </p>
 
@@ -20,7 +20,6 @@ interested in the boundary between computation and the physical world — embedd
 focused on understanding systems from first principles, building through experimentation, and measuring what happens beyond theory.
 
 ### / tech stack & tools
-<!-- 4. TECH BADGES AND SHIELDS -->
 <p align="left">
   <img src="https://shields.io" alt="Python">
   <img src="https://shields.io" alt="C++">
@@ -52,13 +51,12 @@ more soon.
 ---
 
 ### 📊 system telemetry
-<!-- 1. DYNAMIC GITHUB STATS CARDS -->
 <p align="center">
   <img src="https://vercel.app" width="48%" alt="GitHub Stats">
   <img src="https://vercel.app" width="48%" alt="Top Languages">
 </p>
 
-<!-- 2. ANIMATED CONTRIBUTION SNAKE -->
+<!-- ANIMATED CONTRIBUTION SNAKE -->
 <p align="center">
   <img src="https://githubusercontent.com" alt="Contribution Snake">
 </p>
