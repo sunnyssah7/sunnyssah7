@@ -41,6 +41,7 @@ more soon.
 
 ### 📊 system telemetry
 <p align="center">
+  <!-- DYNAMIC STATS - POWERED BY PRANESH METRIC API MIRROR -->
   <img src="https://vercel.app" width="48%" alt="GitHub Stats">
   <img src="https://vercel.app" width="48%" alt="Top Languages">
 </p>
