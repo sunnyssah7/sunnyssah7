@@ -1,9 +1,4 @@
-<div align="center">
-
-  <!-- RESILIENT BANNER FALLBACK -->
-  <img src="gojo.gif" width="480px" alt="Satoru Gojo" onerror="this.src='https://squarespace-cdn.com'">
-
-</div>
+![Satoru Gojo](gojo.gif)
 
 # hi, its sandeep ✌️
 (i also go by sunny)
@@ -14,8 +9,6 @@ electrical engineering · uc riverside
 
 interested in the boundary between computation and the physical world — embedded systems, robotics, control, and intelligent machines.
 
-focused on understanding systems from first principles, building through experimentation, and measuring what happens beyond theory.
-
 ### / tech stack & tools
 
 `python` · `c++` · `embedded c` · `ros` · `linux` · `git`
@@ -24,36 +17,10 @@ focused on understanding systems from first principles, building through experim
 
 `embedded systems` · `robotics` · `physics` · `electronics` · `intelligent systems` · `code`
 
-### / research
-
-technical investigations into how systems behave, interact, and fail.
-
-- feedback control & system identification
-- hardware–software integration
-- sensing, computation & physical systems
-- intelligent systems & data infrastructure
-
-### / lab notes + projects
-
-experiments, simulations, technical notes, and projects in progress.
-
-more soon.
-
 ---
 
 ### 📊 system telemetry
 
-<div align="center">
-  <!-- DIRECT API BACKUP PATHS FOR METRICS -->
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats">
-  <img src="https://vercel.app" width="48%" alt="Top Languages">
-</div>
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
 
-<!-- ANIMATED CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Contribution Snake">
-</p>
-
----
-
-*understand the model. build the system. measure reality.*
