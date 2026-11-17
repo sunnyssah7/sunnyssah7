@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24">
+  <defs>
+    <linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#2f86ff" stop-opacity="0"/><stop offset=".5" stop-color="#8ab9ff"/><stop offset="1" stop-color="#2f86ff" stop-opacity="0"/></linearGradient>
+    <style>.pk{animation:mv 3.5s linear infinite}@keyframes mv{from{transform:translateX(-200px)}to{transform:translateX(1000px)}}
+    .d{fill:#ffa860;animation:bl 1.4s infinite}@keyframes bl{50%{opacity:.15}}</style>
+  </defs>
+  <path d="M0 12 H420 L432 4 L444 20 L456 12 H1000" fill="none" stroke="#232838" stroke-width="1.5"/>
+  <rect class="pk" x="0" y="11" width="200" height="2" fill="url(#p)"/>
+  <circle class="d" cx="500" cy="12" r="3"/>
+</svg>
