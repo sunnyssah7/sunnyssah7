@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://sunnyssah7.github.io/lab"><img src="https://img.shields.io/badge/site-sunnyssah7.github.io/lab-6ec6ff?style=flat-square&labelColor=020912" alt="site"></a>
-  <a href="https://www.linkedin.com/in/sandeep-sah-b8b35542b/"><img src="https://img.shields.io/badge/linkedin-sandeep_sah-6ec6ff?style=flat-square&labelColor=020912&logo=linkedin&logoColor=6ec6ff" alt="linkedin"></a>
-  <a href="https://x.com/sunnyysahh"><img src="https://img.shields.io/badge/x-@sunnyysahh-6ec6ff?style=flat-square&labelColor=020912&logo=x&logoColor=6ec6ff" alt="x"></a>
-  <a href="mailto:sunnyssah7@gmail.com"><img src="https://img.shields.io/badge/email-sunnyssah7@gmail.com-6ec6ff?style=flat-square&labelColor=020912&logo=gmail&logoColor=6ec6ff" alt="email"></a>
+  <a href="https://sunnyssah7.github.io/lab"><img src="https://img.shields.io/badge/site-sunnyssah7.github.io/lab-2f86ff?style=flat-square&labelColor=05060a" alt="site"></a>
+  <a href="https://www.linkedin.com/in/sandeep-sah-b8b35542b/"><img src="https://img.shields.io/badge/linkedin-sandeep_sah-2f86ff?style=flat-square&labelColor=05060a&logo=linkedin&logoColor=2f86ff" alt="linkedin"></a>
+  <a href="https://x.com/sunnyysahh"><img src="https://img.shields.io/badge/x-@sunnyysahh-2f86ff?style=flat-square&labelColor=05060a&logo=x&logoColor=2f86ff" alt="x"></a>
+  <a href="mailto:sunnyssah7@gmail.com"><img src="https://img.shields.io/badge/email-sunnyssah7@gmail.com-2f86ff?style=flat-square&labelColor=05060a&logo=gmail&logoColor=2f86ff" alt="email"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=6EC6FF&center=true&vCenter=true&width=640&lines=18.+EE+%40+UC+Riverside.+Five+ventures+in.;Mapping+the+unknown+with+LiDAR+%2B+A*;Next%3A+ML+on+a+microcontroller%2C+no+cloud.;Building+toward+an+edge+AI+hardware+company." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2F86FF&center=true&vCenter=true&width=640&lines=18.+EE+%40+UC+Riverside.+Five+ventures+in.;Mapping+the+unknown+with+LiDAR+%2B+A*;Next%3A+ML+on+a+microcontroller%2C+no+cloud.;Building+toward+an+edge+AI+hardware+company." alt="typing">
 </p>
 
 ```c
@@ -41,13 +41,13 @@ struct Sandeep {
 ### ▸ stack
 
 <p>
-  <img src="https://img.shields.io/badge/python-020912?style=for-the-badge&logo=python&logoColor=6ec6ff">
-  <img src="https://img.shields.io/badge/c++-020912?style=for-the-badge&logo=cplusplus&logoColor=6ec6ff">
-  <img src="https://img.shields.io/badge/numpy-020912?style=for-the-badge&logo=numpy&logoColor=6ec6ff">
-  <img src="https://img.shields.io/badge/ros_2-020912?style=for-the-badge&logo=ros&logoColor=6ec6ff">
-  <img src="https://img.shields.io/badge/linux-020912?style=for-the-badge&logo=linux&logoColor=6ec6ff">
-  <img src="https://img.shields.io/badge/git-020912?style=for-the-badge&logo=git&logoColor=6ec6ff">
-  <img src="https://img.shields.io/badge/esp32-020912?style=for-the-badge&logo=espressif&logoColor=6ec6ff">
+  <img src="https://img.shields.io/badge/python-05060a?style=for-the-badge&logo=python&logoColor=2f86ff">
+  <img src="https://img.shields.io/badge/c++-05060a?style=for-the-badge&logo=cplusplus&logoColor=2f86ff">
+  <img src="https://img.shields.io/badge/numpy-05060a?style=for-the-badge&logo=numpy&logoColor=2f86ff">
+  <img src="https://img.shields.io/badge/ros_2-05060a?style=for-the-badge&logo=ros&logoColor=2f86ff">
+  <img src="https://img.shields.io/badge/linux-05060a?style=for-the-badge&logo=linux&logoColor=2f86ff">
+  <img src="https://img.shields.io/badge/git-05060a?style=for-the-badge&logo=git&logoColor=2f86ff">
+  <img src="https://img.shields.io/badge/esp32-05060a?style=for-the-badge&logo=espressif&logoColor=2f86ff">
 </p>
 
 **learning, in order:** `c/c++` → `embedded c` → `microcontrollers` → `tinyml` → `ros 2` → `verilog/fpga`
@@ -55,8 +55,8 @@ struct Sandeep {
 ### ▸ telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnyssah7&show_icons=true&hide_border=false&bg_color=020912&title_color=6ec6ff&text_color=7f9bb3&icon_color=6ec6ff&border_color=0e2133&border_radius=12" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyssah7&layout=compact&bg_color=020912&title_color=6ec6ff&text_color=7f9bb3&border_color=0e2133&border_radius=12" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnyssah7&show_icons=true&hide_border=false&bg_color=05060a&title_color=2f86ff&text_color=878ea3&icon_color=2f86ff&border_color=232838&border_radius=12" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyssah7&layout=compact&bg_color=05060a&title_color=2f86ff&text_color=878ea3&border_color=232838&border_radius=12" height="165">
 </p>
 
 <p align="center">
