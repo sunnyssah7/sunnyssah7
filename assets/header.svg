@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#0b3a5c" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#020912" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#a0d2ff" fill-opacity=".09"/>
+    </pattern>
+    <style>
+      .t{fill:none;stroke:#6ec6ff;stroke-width:1.6;stroke-linejoin:round;stroke-dasharray:900;stroke-dashoffset:900;animation:draw 4.5s ease-in-out infinite}
+      .t2{animation-delay:.6s}.t3{animation-delay:1.2s}.t4{animation-delay:1.8s}.t5{animation-delay:2.4s}
+      .g{fill:none;stroke:#163049;stroke-width:1.2}
+      .pad{fill:#020912;stroke:#6ec6ff;stroke-width:1.6}
+      .p{fill:#e8f4ff;animation:blink 2s ease-in-out infinite}
+      @keyframes draw{0%{stroke-dashoffset:900;opacity:0}10%{opacity:1}55%{stroke-dashoffset:0;opacity:1}85%{stroke-dashoffset:0;opacity:0}100%{opacity:0}}
+      @keyframes blink{0%,100%{opacity:.25}50%{opacity:1}}
+      @keyframes pulse{0%{r:4;opacity:1}100%{r:14;opacity:0}}
+      .ring{fill:none;stroke:#3dffc4;stroke-width:1.5;animation:pulse 2s ease-out infinite}
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="#020912"/>
+  <rect width="1200" height="320" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- static traces -->
+  <g class="g">
+    <path d="M700 40 H820 L860 80 H1010 L1040 50 H1170"/>
+    <path d="M700 280 H790 L830 240 H960 L1000 280 H1170"/>
+    <path d="M760 160 H900"/>
+    <path d="M1040 160 H1170"/>
+  </g>
+  <!-- animated traces -->
+  <path class="t"  d="M640 160 H760 L800 120 H900"/>
+  <path class="t t2" d="M640 160 H760 L800 200 H900"/>
+  <path class="t t3" d="M1040 120 L1080 80 H1170"/>
+  <path class="t t4" d="M1040 200 L1080 240 H1170"/>
+  <path class="t t5" d="M970 90 V40 H1100"/>
+
+  <!-- chip -->
+  <g>
+    <g stroke="#6ec6ff" stroke-width="3" stroke-linecap="round">
+      <path d="M925 100 V88 M950 100 V88 M975 100 V88 M1000 100 V88 M1025 100 V88"/>
+      <path d="M925 220 V232 M950 220 V232 M975 220 V232 M1000 220 V232 M1025 220 V232"/>
+      <path d="M900 125 H888 M900 150 H888 M900 175 H888 M900 200 H888"/>
+      <path d="M1050 125 H1062 M1050 150 H1062 M1050 175 H1062 M1050 200 H1062"/>
+    </g>
+    <rect x="900" y="100" width="150" height="120" rx="10" fill="#06111d" stroke="#6ec6ff" stroke-width="2"/>
+    <rect x="938" y="132" width="74" height="56" rx="4" fill="#0b3a5c" fill-opacity=".6" stroke="#163049"/>
+    <text x="975" y="166" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#6ec6ff" letter-spacing="2">EDGE</text>
+  </g>
+  <circle class="pad" cx="640" cy="160" r="5"/><circle class="pad" cx="1170" cy="80" r="5"/><circle class="pad" cx="1170" cy="240" r="5"/><circle class="pad" cx="1100" cy="40" r="5"/>
+
+  <!-- text -->
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="56" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#7f9bb3" letter-spacing="1.5">EE @ UC RIVERSIDE  ·  EDGE AI  ·  ROBOTICS</text>
+    <text x="52" y="150" font-size="76" font-weight="700" fill="#e8f4ff" letter-spacing="-3">sandeep sah</text>
+    <text x="56" y="200" font-size="28" fill="#7f9bb3" letter-spacing="-.5">building hardware that <tspan fill="#6ec6ff" font-weight="600">thinks.</tspan></text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+    <circle cx="62" cy="262" r="4" fill="#3dffc4"/><circle class="ring" cx="62" cy="262" r="4"/>
+    <text x="76" y="267" fill="#7f9bb3">currently: autonomous vehicle work @ ucr ce-cert · founder @ operator</text>
+  </g>
+</svg>
